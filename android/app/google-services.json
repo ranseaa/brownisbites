@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524387842426",
+    "project_id": "browniesbites-ac44e",
+    "storage_bucket": "browniesbites-ac44e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524387842426:android:deaefa159697b3c1e7bec3",
+        "android_client_info": {
+          "package_name": "com.codeforany.Browniesbites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDaF0huy9l2A7Cz1Oc4rJnEPsYsrjTT7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
